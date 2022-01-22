@@ -1,0 +1,37 @@
+[{
+        "id": 1,
+        "autor": "Japón",
+        "titulo": "Japón",
+        "srcimg": "https://acortar.link/mAJPxA",
+        "alt": "Imagen de la bandera de Japón",
+        "texto": "Aquí encontrarás diferentes recetas tipicas de Japón, que actualizaremos mes a mes. Animate a conocer más sobre la cultura japonesa y su riquesa culinaria.",
+        "url": "https://www.directoalpaladar.com/curso-de-cocina/17-recetas-cocina-japonesa-para-principiantes"
+    },
+    {
+        "id": 2,
+        "autor": "China",
+        "titulo": "China",
+        "srcimg": "https://acortar.link/lZ5EIF",
+        "alt": "Imagen de la bandera de China",
+        "texto": "Aquí encontrarás diferentes recetas tipicas de China, que actualizaremos mes a mes. Animate a conocer más sobre la cultura china y su riquesa culinaria.",
+        "url": "https://www.directoalpaladar.com/cultura-gastronomica/15-mejores-recetas-comida-china-directo-al-paladar-para-celebrar-ano-buey"
+    },
+    {
+        "id": 3,
+        "autor": "India",
+        "titulo": "India",
+        "srcimg": "https://acortar.link/VbWRVR",
+        "alt": "Imagen de la bandera de India",
+        "texto": "Aquí encontrarás diferentes recetas tipicas de India, que actualizaremos mes a mes. Animate a conocer más sobre la cultura Indu y su riquesa culinaria.",
+        "url": "https://www.directoalpaladar.com/turismo-gastronomico/si-eres-fan-del-curry-y-las-especias-la-cocina-india-es-para-ti-las-7-recetas-de-cocina-india-que-te-atraparan"
+    },
+    {
+        "id": 4,
+        "autor": "Tailandia",
+        "titulo": "Tailandia",
+        "srcimg": "https://acortar.link/FIhEcK",
+        "alt": "Imagen de la bandera de Tailandia",
+        "texto": "Aquí encontrarás diferentes recetas tipicas de Tailandia, que actualizaremos mes a mes. Animate a conocer más sobre la cultura tailandesa y su riquesa culinaria. ",
+        "url": "https://www.bonduelle.es/blog/articulo/comida-tailandesa-recetas-para-hacer-en-casa/946/946"
+    }
+]
